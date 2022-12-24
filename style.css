@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.first-section > .first-section-content {
+    color: #3882f6;
+    padding-left: 200px;
+}
+
+.second-section {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align:start;
+    padding-left: 200px;
+}
+
+.second-section-content-one {
+    padding-top: 10px;
+}
+
+.second-section-content-two {
+    padding-top: 25px;
+}
+
+.second-section-content-two > h2 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.second-section-content-three > p {
+    padding-top: 30px;
+}
+
+.second-section-content-three > h2 {
+    font-size: 18px;
+    color: #e5e7eb85;
+    font-weight: 200;
+}
+
+.second-section-content-four {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.third-section {
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+.third-section > .third-section-content-one > h2 {
+    color: #3882f6;
+}
+
+.third-section-content-two {
+    padding-top: 40px;
+}
+
+.third-section-content-two > h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding-bottom: 30px;
+}
+
+.fourth-section {
+    padding-left: 200px;
+    padding-top:10px;
+    background-color: #E5E7EB;
+}
+
+.fourth-section > .fourth-section-content-one > h2 {
+    padding-top: 5px;
+}
+
+.fourth-section-content-two {
+    padding-top: 20px;
+}
+
+.fourth-section > .fourth-section-content-two > h2 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: lighter;
+    padding-bottom: 50px;
+}
